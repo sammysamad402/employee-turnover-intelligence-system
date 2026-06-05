@@ -242,6 +242,28 @@ Employees were categorized into four risk groups based on predicted turnover pro
 
 ---
 
+## Screenshots
+
+## Correlation Analysis
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+## Employee Turnover Distribution
+![Turnover Distribution](images/turnover_distribution.png)
+
+## Employee Segmentation Using K-Means
+![Employee Clusters](images/employee_clusters.png)
+
+## ROC-AUC Model Comparison
+![ROC Curve Comparison](images/roc_curve_comparison.png)
+
+## Feature Importance Analysis
+![Feature Importance](images/feature_importance.png)
+
+## Employee Risk Segmentation
+![Risk Segmentation](images/risk_segmentation.png)
+
+---
+
 ## Technologies Used
 
 * Python
