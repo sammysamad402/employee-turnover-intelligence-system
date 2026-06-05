@@ -1,0 +1,61 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual Environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+desktop.ini
+
+# Environment Variables
+
+.env
+
+# Logs
+
+*.log
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Python cache
+
+.pytest_cache/
+.mypy_cache/
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# Optional: Ignore dataset if you don't want to upload it
+
+# data/HR_comma_sep.xlsx
